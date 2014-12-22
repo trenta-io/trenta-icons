@@ -1,0 +1,51 @@
+[Icon Theme]
+Name=Rainier
+Comment=Crisp, modern icon set for Trenta OS.
+Inherits=Numix-Circle
+
+Example=x-directory-normal
+
+# Directory list
+Directories=22x22/status,24x24/status,32x32/status,32x32/actions,48x48/actions,48x48/status,256x256/apps,256x256/places,
+
+# Actions
+
+[48x48/actions]
+Size=128
+Context=Actions
+Type=Scalable
+
+[256x256/apps]
+Context=Applications
+Size=256
+Type=Threshold
+
+[256x256/places]
+Context=Places
+Size=256
+Type=Threshold
+
+[22x22/status]
+Size=22
+Context=Status
+Type=Threshold
+
+[24x24/status]
+Size=24
+Context=Status
+Type=Fixed
+
+[32x32/status]
+Size=32
+Context=Status
+Type=Fixed
+
+[32x32/actions]
+Size=32
+Context=Actions
+Type=Scalable
+
+[48x48/status]
+Size=128
+Context=Status
+Type=Scalable
