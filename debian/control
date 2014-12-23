@@ -1,0 +1,14 @@
+Source: rainier-icon-theme
+Section: gnome
+Priority: extra
+Maintainer: Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+Homepage: http://trentaos.org
+
+Package: rainier-icon-theme
+Architecture: all
+Depends: numix-icon-theme-circle, ${shlibs:Depends}, ${misc:Depends}
+Description: Rainier Icon Theme
+ A crisp, modern icon theme for Trenta OS.
+
