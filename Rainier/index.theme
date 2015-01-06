@@ -2,7 +2,6 @@
 Name=Rainier
 Comment=Crisp, modern icon set for Trenta OS.
 Inherits=Numix-Circle
-# Licensed Under GPLv3
 
 Example=x-directory-normal
 
