@@ -1,3 +1,17 @@
+rainier-icon-theme (0.2.2) trusty; urgency=medium
+
+  * Updated Folder Icons
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Fri, 17 Apr 2015 21:14:00 -0400
+
+
+rainier-icon-theme (0.2.1) trusty; urgency=medium
+
+  * Changed Search Icon
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Tue, 23 Dec 2014 16:24:00 -0400
+
+
 rainier-icon-theme (0.2) trusty; urgency=medium
 
   * Rainier Generation 2
