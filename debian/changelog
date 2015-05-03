@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.2) trusty; urgency=medium
+
+  * Added a Ubiquity Icon
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Sun, 03 May 2015 17:01:00 -0400
+
 rainier-icon-theme (0.3.1) trusty; urgency=medium
 
   * Updated Folder Icons
