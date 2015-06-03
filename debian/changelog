@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.3) trusty; urgency=medium
+
+  * Changed/Added Steam, LibreOffice Impress, Draw, and Math, Cheese, Shotwell, Wine Settings and Wine Tricks Icons
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Wed, 03 June 2015 13:30:00 -0400
+
 rainier-icon-theme (0.3.2) trusty; urgency=medium
 
   * Added a Ubiquity Icon
