@@ -1,3 +1,15 @@
+rainier-icon-theme (0.3.33.1) trusty; urgency=medium
+
+  * Fixed Gnome Contacts icon issue
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Mon, 06 July 2015 16:53:00 -0400
+
+rainier-icon-theme (0.3.33) trusty; urgency=medium
+
+  * Changed Icons, and added a Contacts icon
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Mon, 06 July 2015 13:29:00 -0400
+
 rainier-icon-theme (0.3.32) trusty; urgency=medium
 
   * Changed Software Center and Musique icons and added a Geary icon
