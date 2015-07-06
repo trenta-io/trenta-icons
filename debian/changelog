@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.32) trusty; urgency=medium
+
+  * Changed Software Center and Musique icons and added a Geary icon
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Sat, 04 July 2015 19:35:00 -0400
+
 rainier-icon-theme (0.3.31) trusty; urgency=medium
 
   * Changed/Added Cheese, Shotwell, Gedit, Wine Uninstall, Wine Folder, and Springseed.
