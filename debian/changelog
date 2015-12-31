@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.41) trusty; urgency=medium
+
+  * Real bug fixes
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Thu, 31 Dec 2015 15:16:00 -0500
+
 rainier-icon-theme (0.3.40) trusty; urgency=medium
 
   * Bug Fixes and Missing Icons
