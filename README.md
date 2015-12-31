@@ -11,6 +11,7 @@ To install this icon set on an Ubuntu based Linux distro, run the following comm
 
 This icon set is crafted by the Trenta OS Developers for Trenta OS. - http://trentaos.org
 
-Some icons have been used from the Moka Project.
-
 This theme inherits icons from the Numix Circle theme.
+
+## Installing Rainier in Other Distros
+We would love to have Rainier packages made for other distros too! If you have the skills, please let us know!

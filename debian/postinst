@@ -1,2 +1,2 @@
 #!/bin/sh
-gsettings set org.gnome.desktop.interface icon-theme "Rainier"
+echo "Change your settings to set the Rainier Icon Theme as default"

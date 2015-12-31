@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.40) trusty; urgency=medium
+
+  * Bug Fixes and Missing Icons
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Wed, 30 Dec 2015 15:02:00 -0500
+
 rainier-icon-theme (0.3.33.1) trusty; urgency=medium
 
   * Fixed Gnome Contacts icon issue
