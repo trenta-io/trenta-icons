@@ -2,6 +2,12 @@ rainier-icon-theme (0.3.46.5) xenial; urgency=medium
 
   * Icon Additions
 
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Thu, 26 May 2016 17:19:00 -0400
+
+rainier-icon-theme (0.3.46.5) xenial; urgency=medium
+
+  * Icon Additions
+
  -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Tue, 17 May 2016 12:22:00 -0400
 
 rainier-icon-theme (0.3.46) xenial; urgency=medium
