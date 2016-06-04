@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.47) xenial; urgency=medium
+
+  * Commented Out Broken Arrow Icons, fixed Calendar app
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Fri, 03 Jun 2016 16:06:42 -0400
+
 rainier-icon-theme (0.3.46.7) xenial; urgency=medium
 
   * Icon Additions
