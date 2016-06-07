@@ -15,3 +15,9 @@ This theme inherits icons from the Numix Circle theme.
 
 ## Installing Rainier in Other Distros
 We would love to have Rainier packages made for other distros too! If you have the skills, please let us know!
+
+# Credits
+Original Designs by @KevDoy
+
+### Extra Credits
+Emoji art supplied by Emoji One
