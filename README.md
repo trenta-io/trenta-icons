@@ -23,3 +23,4 @@ Original Designs by @KevDoy
 -Emoji art supplied by Emoji One<br>
 -Atom Icon taken from official app<br>
 -Transmission Icon taken from official OS X app<br>
+-VLC icon taken from official OS X app
