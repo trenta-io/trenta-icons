@@ -20,6 +20,6 @@ We would love to have Rainier packages made for other distros too! If you have t
 Original Designs by @KevDoy
 
 ### Additional Credits
-Emoji art supplied by Emoji One
-Atom Icon taken from official app
-Transmission Icon taken from official OS X app
+#Emoji art supplied by Emoji One
+#Atom Icon taken from official app
+#Transmission Icon taken from official OS X app
