@@ -24,3 +24,4 @@ Original Designs by @KevDoy
 -Atom Icon taken from official app<br>
 -Transmission Icon taken from official OS X app<br>
 -VLC icon taken from official OS X app
+-Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
