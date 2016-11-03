@@ -23,5 +23,6 @@ Original Designs by @KevDoy
 -Emoji art supplied by Emoji One<br>
 -Atom Icon taken from official app<br>
 -Transmission Icon taken from official OS X app<br>
--VLC icon taken from official OS X app<br>
--Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
+-VLC icon taken from official VLC macOS app<br>
+-Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt<br>
+-Kodi Icon taken from official Kodi macOS app
