@@ -26,3 +26,5 @@ Original Designs by @KevDoy
 - VLC icon taken from official OS X app
 - Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
 - Google Play Music Desktop Player taken from official app
+- Kodi Icon taken from official Kodi macOS app
+
