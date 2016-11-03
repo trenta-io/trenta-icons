@@ -1,3 +1,21 @@
+rainier-icon-theme (0.3.52) xenial; urgency=medium
+
+  * Updated to match git repo
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Wed, 02 Nov 2016 22:38:10 -0400
+
+rainier-icon-theme (0.3.51) xenial; urgency=medium
+
+  * Fixed Name of Input Method Icon
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Fri, 30 Sep 2016 20:01:02 -0400
+
+rainier-icon-theme (0.3.50) xenial; urgency=medium
+
+  * New Image Magick, Calculator, Slack, Gnome Music and other icons
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Thu, 29 Sep 2016 17:01:42 -0400
+
 rainier-icon-theme (0.3.48) xenial; urgency=medium
 
   * Icon Unification, New Empathy and Deja Dup icons
