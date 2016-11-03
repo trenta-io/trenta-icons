@@ -1,2 +1,5 @@
 #!/bin/sh
-echo "Change your settings to set the Rainier Icon Theme as default"
+
+gtk-update-icon-cache /usr/share/icons/Rainier
+
+exit 0

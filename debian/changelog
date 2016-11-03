@@ -1,3 +1,10 @@
+rainier-icon-theme (0.3.52.1) xenial; urgency=medium
+
+  * Added GPMDP's Default Icon, Fixed Hangout's icon name
+  * Added Icon Cache Refresh line
+
+ -- Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>  Thu, 03 Nov 2016 17:10:23 -0400
+
 rainier-icon-theme (0.3.52) xenial; urgency=medium
 
   * Updated to match git repo
