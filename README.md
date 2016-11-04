@@ -20,7 +20,6 @@ We would love to have Rainier packages made for other distros too! If you have t
 Original Designs by @KevDoy
 
 ### Additional Credits
-=======
 - Emoji art supplied by Emoji One
 - Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
 - Atom Icon taken from official app
