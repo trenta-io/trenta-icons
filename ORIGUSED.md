@@ -6,3 +6,4 @@ Icons used directly from application
 -VLC (macOS app)
 -Kodi (macOS app)
 -Opera
+-Google Play Music Desktop Player (3rd Party)

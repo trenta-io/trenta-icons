@@ -20,11 +20,11 @@ We would love to have Rainier packages made for other distros too! If you have t
 Original Designs by @KevDoy
 
 ### Additional Credits
+=======
 - Emoji art supplied by Emoji One
-- Atom Icon taken from official app
-- Transmission Icon taken from official OS X app
-- VLC icon taken from official OS X app
 - Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
+- Atom Icon taken from official app
+- Opera Icon taken from official app
 - Google Play Music Desktop Player taken from official app
+- Transmission Icon taken from official Transmission macOS app
 - Kodi Icon taken from official Kodi macOS app
-
