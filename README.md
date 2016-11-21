@@ -1,4 +1,4 @@
-Rainier Icon Theme
+Rainier UI Icons
 =============
 
 To install this icon set on an Ubuntu based Linux distro, run the following commands.
