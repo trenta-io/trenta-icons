@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.53.2) xenial; urgency=medium
+
+  * Restored 64px icons
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Fri, 30 Dec 2016 16:58:26 -0500
+
 rainier-icon-theme (0.3.53.1) xenial; urgency=medium
 
   * Removed Broken Sym Links
