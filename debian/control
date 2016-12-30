@@ -1,10 +1,10 @@
 Source: rainier-icon-theme
 Section: gnome
 Priority: extra
-Maintainer: Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>
+Maintainer: Kenneth Stier (Trenta.io) <kenny@trenta.io>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.3
-Homepage: http://trentaos.org
+Homepage: https://trenta.io/
 
 Package: rainier-icon-theme
 Architecture: all
