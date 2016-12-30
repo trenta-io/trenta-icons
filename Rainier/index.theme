@@ -6,7 +6,7 @@ Inherits=Numix-Circle
 Example=rainier-icon-theme
 
 # Directory list
-Directories=128x128/apps,128x128/places,256x256/apps,256x256/places,256x256/status,scalable/actions
+Directories=128x128/apps,128x128/places,256x256/apps,256x256/places,256x256/status
 
 # Actions
 
@@ -15,40 +15,40 @@ Context=Applications
 Size=128
 Type=Scalable
 MaxSize=128
-MinSize=48
+MinSize=12
 
 [128x128/places]
 Context=Places
 Size=128
 Type=Scalable
 MaxSize=128
-MinSize=48
+MinSize=12
 
 [256x256/apps]
 Context=Applications
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=129
+MinSize=12
 
 [256x256/places]
 Context=Places
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=129
+MinSize=12
 
 [256x256/status]
 Context=Status
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=129
+MinSize=12
 
-[scalable/actions]
-Context=Actions
-Size=24
-Type=Scalable
-MaxSize=512
-MinSize=16
+# [scalable/actions]
+# Context=Actions
+# Size=24
+# Type=Scalable
+# MaxSize=512
+# MinSize=16
 
