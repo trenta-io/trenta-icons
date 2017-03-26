@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Rainier
-Comment=Crisp, modern icon set for Trenta OS.
+Name=Rainier UI Icons
+Comment=Crisp, modern icon set for Trenta OS by Trenta.io
 Inherits=Numix-Circle
 
 Example=rainier-icon-theme
@@ -15,49 +15,50 @@ Context=Devices
 Size=64
 Type=Scalable
 MaxSize=64
-MinSize=12
+MinSize=4
 
 [64x64/status]
 Context=Status
 Size=64
 Type=Scalable
 MaxSize=64
-MinSize=12
+MinSize=4
 
 [128x128/apps]
 Context=Applications
 Size=128
 Type=Scalable
 MaxSize=128
-MinSize=12
+MinSize=4
 
-# [128x128/places]
-# Context=Places
+# [256x256/apps] # @2
+# Context=Applications
 # Size=128
+# Scale=2
 # Type=Scalable
 # MaxSize=128
-# MinSize=12
+# MinSize=4
 
 [256x256/apps]
 Context=Applications
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=12
+MinSize=4
 
 [256x256/places]
 Context=Places
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=12
+MinSize=4
 
 [256x256/status]
 Context=Status
 Size=256
 Type=Scalable
 MaxSize=2048
-MinSize=12
+MinSize=4
 
 # [scalable/actions]
 # Context=Actions
