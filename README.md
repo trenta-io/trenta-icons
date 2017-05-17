@@ -3,7 +3,7 @@
 
 Rainier UI Icons is the icon theme crafted by Trenta.io for Trenta OS. It is uses modern, clean and sleek design standards to brighten up the Linux desktop experience and giving it a premium polish.
 
-
+## Installing Rainier UI Icons in Ubuntu-based Distro
 To install this icon set on an Ubuntu based Linux distro, run the following commands.
 
 	sudo add-apt-repository ppa:trentaos-team/rainier
@@ -15,7 +15,7 @@ To install this icon set on an Ubuntu based Linux distro, run the following comm
 This theme currently inherits icons from the Numix Circle theme.
 
 ## Installing Rainier in Other Distros
-We would love to have Rainier packages made for other distros too! If you have the skills, please let us know!
+We would love to have Rainier UI Icons packages made for other distros too! If you have the skills, please let us know!
 
 # Credits
 Original Designs by @KevDoy
