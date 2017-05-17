@@ -1,4 +1,4 @@
-![Rainier UI](https://trenta.io/images/logo-rainier-text.png = 349x90) Icons
+![Rainier UI](https://i.imgur.com/lJfpp40.png) Icons
 =============
 
 Rainier UI Icons is the icon theme crafted by Trenta.io for Trenta OS. It is uses modern, clean and sleek design standards to brighten up the Linux desktop experience and giving it a premium polish.
