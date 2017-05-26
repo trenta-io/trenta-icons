@@ -6,64 +6,104 @@ Inherits=Numix-Circle
 Example=rainier-icon-theme
 
 # Directory list
-Directories=64x64/devices,64x64/status,128x128/apps,256x256/apps,256x256/places,256x256/status
+Directories=actions/scalable,apps/128,apps/256,apps/512,apps/1024,devices/64,devices/128,devices/256,devices/512,devices/1024,places/128,places/256,status/64,status/256
 
 # Actions
-
-[64x64/devices]
-Context=Devices
-Size=64
+[actions/scalable]
+Context=Actions
+Size=24
 Type=Scalable
-MaxSize=64
-MinSize=4
+MaxSize=1024
+MinSize=12
 
-[64x64/status]
-Context=Status
-Size=64
-Type=Scalable
-MaxSize=64
-MinSize=4
-
-[128x128/apps]
+[apps/128]
 Context=Applications
 Size=128
 Type=Scalable
 MaxSize=128
-MinSize=4
+MinSize=12
 
-# [256x256/apps] # @2
-# Context=Applications
-# Size=128
-# Scale=2
-# Type=Scalable
-# MaxSize=128
-# MinSize=4
-
-[256x256/apps]
+[apps/256]
 Context=Applications
 Size=256
 Type=Scalable
-MaxSize=2048
-MinSize=4
+MaxSize=256
+MinSize=129
 
-[256x256/places]
+[apps/512]
+Context=Applications
+Size=512
+Type=Scalable
+MaxSize=512
+MinSize=257
+
+[apps/1024]
+Context=Applications
+Size=1024
+Type=Scalable
+MaxSize=1024
+MinSize=513
+
+[devices/64]
+Context=Devices
+Size=64
+Type=Scalable
+MaxSize=64
+MinSize=12
+
+[devices/128]
+Context=Devices
+Size=128
+Type=Scalable
+MaxSize=128
+MinSize=65
+
+[devices/256]
+Context=Devices
+Size=256
+Type=Scalable
+MaxSize=256
+MinSize=129
+
+[devices/512]
+Context=Devices
+Size=512
+Type=Scalable
+MaxSize=512
+MinSize=257
+
+[devices/1024]
+Context=Devices
+Size=1024
+Type=Scalable
+MaxSize=1024
+MinSize=513
+
+[places/128]
+Context=Places
+Size=128
+Type=Scalable
+MaxSize=128
+MinSize=12
+
+[places/256]
 Context=Places
 Size=256
 Type=Scalable
-MaxSize=2048
-MinSize=4
+MaxSize=256
+MinSize=129
 
-[256x256/status]
+[status/64]
+Context=Status
+Size=64
+Type=Scalable
+MaxSize=64
+MinSize=12
+
+[status/256]
 Context=Status
 Size=256
 Type=Scalable
-MaxSize=2048
-MinSize=4
-
-# [scalable/actions]
-# Context=Actions
-# Size=24
-# Type=Scalable
-# MaxSize=512
-# MinSize=16
+MaxSize=256
+MinSize=65
 
