@@ -9,13 +9,15 @@ Example=rainier-icon-theme
 Directories=actions/scalable,apps/128,apps/256,apps/512,apps/1024,devices/64,devices/128,devices/256,devices/512,devices/1024,places/128,places/256,status/64,status/256
 
 # Actions
-[actions/scalable]
-Context=Actions
-Size=24
-Type=Scalable
-MaxSize=1024
-MinSize=12
+# These do not function properly.
+# [actions/scalable]
+# Context=Actions
+# Size=24
+# Type=Scalable
+# MaxSize=1024
+# MinSize=12
 
+# Apps
 [apps/128]
 Context=Applications
 Size=128
@@ -44,6 +46,7 @@ Type=Scalable
 MaxSize=1024
 MinSize=513
 
+# Devices
 [devices/64]
 Context=Devices
 Size=64
@@ -79,6 +82,7 @@ Type=Scalable
 MaxSize=1024
 MinSize=513
 
+# Places
 [places/128]
 Context=Places
 Size=128
@@ -93,6 +97,7 @@ Type=Scalable
 MaxSize=256
 MinSize=129
 
+# Status
 [status/64]
 Context=Status
 Size=64
