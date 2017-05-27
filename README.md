@@ -28,3 +28,6 @@ Original Designs by @KevDoy
 - Google Play Music Desktop Player taken from official app
 - Transmission Icon taken from official Transmission macOS app
 - Kodi Icon taken from official Kodi macOS app
+
+### Preview
+![Mockup](https://trenta.io/screenshots/rainier-ui-icons.jpg)
