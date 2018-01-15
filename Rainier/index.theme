@@ -6,96 +6,30 @@ Inherits=elementary,Ubuntu-Mono-Dark,Humanity-Dark,Adwaita,hicolor
 Example=rainier-icon-theme
 
 # Directory list
-Directories=actions/scalable,apps/128,apps/256,apps/512,apps/1024,devices/64,devices/128,devices/256,devices/512,devices/1024,places/128,places/256,status/64,status/256
-
-# Actions
-# These do not function properly.
-# [actions/scalable]
-# Context=Actions
-# Size=24
-# Type=Scalable
-# MaxSize=1024
-# MinSize=12
+Directories=scalable,apps/1024,places/256,status/64,status/256
 
 # Apps
-[apps/128]
+[scalable]
 Context=Applications
-Size=128
+Size=1024
 Type=Scalable
-MaxSize=128
+MaxSize=2048
 MinSize=12
-
-[apps/256]
-Context=Applications
-Size=256
-Type=Scalable
-MaxSize=256
-MinSize=129
-
-[apps/512]
-Context=Applications
-Size=512
-Type=Scalable
-MaxSize=512
-MinSize=257
 
 [apps/1024]
 Context=Applications
 Size=1024
 Type=Scalable
 MaxSize=1024
-MinSize=513
-
-# Devices
-[devices/64]
-Context=Devices
-Size=64
-Type=Scalable
-MaxSize=64
 MinSize=12
-
-[devices/128]
-Context=Devices
-Size=128
-Type=Scalable
-MaxSize=128
-MinSize=65
-
-[devices/256]
-Context=Devices
-Size=256
-Type=Scalable
-MaxSize=256
-MinSize=129
-
-[devices/512]
-Context=Devices
-Size=512
-Type=Scalable
-MaxSize=512
-MinSize=257
-
-[devices/1024]
-Context=Devices
-Size=1024
-Type=Scalable
-MaxSize=1024
-MinSize=513
 
 # Places
-[places/128]
-Context=Places
-Size=128
-Type=Scalable
-MaxSize=128
-MinSize=12
-
 [places/256]
 Context=Places
 Size=256
 Type=Scalable
 MaxSize=256
-MinSize=129
+MinSize=12
 
 # Status
 [status/64]
@@ -110,5 +44,5 @@ Context=Status
 Size=256
 Type=Scalable
 MaxSize=256
-MinSize=65
+MinSize=12
 

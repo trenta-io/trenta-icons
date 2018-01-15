@@ -8,7 +8,7 @@ Homepage: https://trenta.io/
 
 Package: rainier-icon-theme
 Architecture: all
-Depends: numix-icon-theme-circle, ${shlibs:Depends}, ${misc:Depends}
+Depends: elementary-icon-theme, ${shlibs:Depends}, ${misc:Depends}
 Description: Rainier Icon Theme
  A crisp, modern icon theme for Trenta OS.
 
