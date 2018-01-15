@@ -1,3 +1,12 @@
+rainier-icon-theme (0.3.54) artful; urgency=medium
+
+  * Beginning to Vectorize
+  * Inherit Elementary, not Numix
+  * Clean up directories
+  * Change icon names for Ubuntu 17.10
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Sun, 14 Jan 2018 22:58:58 -0500
+
 rainier-icon-theme (0.3.53.2) xenial; urgency=medium
 
   * Restored 64px icons
