@@ -8,8 +8,8 @@
 	.st0{fill:#FF6E00;}
 	.st1{fill:url(#SVGID_1_);}
 	.st2{fill:url(#SVGID_2_);}
-	.st3{clip-path:url(#SVGID_4_);fill:url(#SVGID_5_);}
-	.st4{clip-path:url(#SVGID_7_);fill:url(#SVGID_8_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
 	.st5{fill:#FC781A;}
 </style>
 <g id="Layer_1">
@@ -31,36 +31,18 @@
 	</linearGradient>
 	<path class="st2" d="M471,96.8c0,0-6,3-10,17S284.3,673.5,284.3,673.5s-82,184.2,222,184.2c323.9,0,236.2-184,236.2-184l-182.4-566
 		c0,0-3.2-9.2-8.5-11C546.3,95,471,96.8,471,96.8z"/>
-	<g>
-		<defs>
-			<path id="SVGID_3_" d="M471,96.8c0,0-6,3-10,17S284.3,673.5,284.3,673.5s-82,184.2,222,184.2c323.9,0,236.2-184,236.2-184
-				l-182.4-566c0,0-3.2-9.2-8.5-11C546.3,95,471,96.8,471,96.8z"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="510.4919" y1="199.7772" x2="510.4919" y2="668.0077">
-			<stop  offset="0" style="stop-color:#EAEBED"/>
-			<stop  offset="1" style="stop-color:#D7D8DA"/>
-		</linearGradient>
-		<path class="st3" d="M331.5,506.4c0,0,33.6,57.5,180.5,57.5s178.2-57.5,178.2-57.5l42.6,136.4c0,0-32.4,85.2-220.8,85.2
-			s-223.8-83.1-223.8-83.1L331.5,506.4z"/>
-	</g>
-	<g>
-		<defs>
-			<path id="SVGID_6_" d="M471,96.8c0,0-6,3-10,17S284.3,673.5,284.3,673.5s-82,184.2,222,184.2c323.9,0,236.2-184,236.2-184
-				l-182.4-566c0,0-3.2-9.2-8.5-11C546.3,95,471,96.8,471,96.8z"/>
-		</defs>
-		<clipPath id="SVGID_7_">
-			<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
-		</clipPath>
-		<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="512.262" y1="206.3488" x2="512.262" y2="667.207">
-			<stop  offset="0" style="stop-color:#EAEBED"/>
-			<stop  offset="1" style="stop-color:#D7D8DA"/>
-		</linearGradient>
-		<path class="st4" d="M430.5,208.2c0,0,18.3,18.9,81.1,18.9s81.1-18.9,81.1-18.9l47.9,141.9c0,0-23,35-127.5,35
-			S384,352.9,384,352.9L430.5,208.2z"/>
-	</g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="512.101" y1="199.7772" x2="512.101" y2="668.0077">
+		<stop  offset="0" style="stop-color:#EAEBED"/>
+		<stop  offset="1" style="stop-color:#D7D8DA"/>
+	</linearGradient>
+	<path class="st3" d="M689.1,508c-6.4,9.4-45,55.9-177.1,55.9c-119.5,0-164-38.1-176.5-52.3c-19,60-35.2,111.2-44,139.2
+		c12.3,19,62.9,77.2,220.5,77.2c181.6,0,218.3-79.3,220.6-84.9L689.1,508z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="512.0705" y1="206.3488" x2="512.0706" y2="667.207">
+		<stop  offset="0" style="stop-color:#EAEBED"/>
+		<stop  offset="1" style="stop-color:#D7D8DA"/>
+	</linearGradient>
+	<path class="st4" d="M592.5,208.3c-1.5,1.5-20.9,18.8-81,18.8c-55.9,0-76.6-15-80.4-18.3c-13,41.4-29.2,92.5-45.9,145.5
+		c6.2,6.2,36.6,30.8,127.8,30.8c89.1,0,119-25.5,125.8-32.9L592.5,208.3z"/>
 </g>
 <g id="Layer_5">
 	<ellipse class="st5" cx="511.5" cy="100.8" rx="43.5" ry="10"/>
