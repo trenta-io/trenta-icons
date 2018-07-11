@@ -1,3 +1,23 @@
+rainier-icon-theme (0.3.55.2) bionic; urgency=medium
+
+  * Fixed Debian Formatting 2
+  * Added Wine Cfg Vector
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Tue, 10 Jul 2018 23:03:24 -0400
+
+rainier-icon-theme (0.3.55.1) bionic; urgency=medium
+
+  * Fixed Debian Formatting
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Tue, 10 Jul 2018 20:57:43 -0400
+
+rainier-icon-theme (0.3.55) bionic; urgency=medium
+
+  * Continuing Vectorization
+  * Icon Name Changes for 18.04
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Tue, 29 May 2018 14:12:28 -0400
+
 rainier-icon-theme (0.3.54) artful; urgency=medium
 
   * Beginning to Vectorize

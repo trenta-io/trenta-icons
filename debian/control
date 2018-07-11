@@ -1,9 +1,9 @@
 Source: rainier-icon-theme
 Section: gnome
-Priority: extra
+Priority: optional
 Maintainer: Kenneth Stier (Trenta.io) <kenny@trenta.io>
-Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 10.5.1)
+Standards-Version: 4.1.1
 Homepage: https://trenta.io/
 
 Package: rainier-icon-theme
