@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.55.3) bionic; urgency=medium
+
+  * Fix Postinst error
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Sun, 15 Jul 2018 00:07:33 -0400
+
 rainier-icon-theme (0.3.55.2) bionic; urgency=medium
 
   * Fixed Debian Formatting 2

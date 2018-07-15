@@ -1,11 +1,11 @@
-#!/bin/sh
+#!/bin/bash
 
 set -e
 
 write_cache()
 {
 if [ -x /usr/bin/gtk-update-icon-cache ]; then
-    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/elementary; then
+    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/Rainier; then
         echo "WARNING: icon cache generation failed"
     fi
 fi
@@ -13,7 +13,7 @@ fi
 
 if [ "$1" = "triggered" ]; then
     write_cache
-    exit 0
+    exit
 fi
 
 write_cache
