@@ -6,7 +6,7 @@ Inherits=elementary,Ubuntu-Mono-Dark,Humanity-Dark,Adwaita,hicolor
 Example=rainier-icon-theme
 
 # Directory list
-Directories=scalable,apps/1024,places/256,status/64,status/256
+Directories=scalable,apps/1024,places/256,status/64,status/256,status/scalable
 
 # Apps
 [scalable]
@@ -45,4 +45,12 @@ Size=256
 Type=Scalable
 MaxSize=256
 MinSize=12
+
+[status/scalable]
+Context=Status
+Size=256
+Type=Scalable
+MaxSize=256
+MinSize=12
+
 
