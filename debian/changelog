@@ -1,3 +1,9 @@
+rainier-icon-theme (0.3.55.4) bionic; urgency=medium
+
+  * Fix Postinst error v2
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Sun, 22 Jul 2018 22:18:35 -0400
+
 rainier-icon-theme (0.3.55.3) bionic; urgency=medium
 
   * Fix Postinst error
