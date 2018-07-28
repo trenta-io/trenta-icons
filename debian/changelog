@@ -1,3 +1,11 @@
+rainier-ui-icons (0.3.56) bionic; urgency=medium
+
+  * Rename Package
+  * Require curl for Fix Hardcoded icon script
+  * Bluetooth Icons
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Fri, 27 Jul 2018 22:35:25 -0400
+
 rainier-icon-theme (0.3.55.4) bionic; urgency=medium
 
   * Fix Postinst error v2

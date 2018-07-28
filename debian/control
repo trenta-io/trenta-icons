@@ -1,4 +1,4 @@
-Source: rainier-icon-theme
+Source: rainier-ui-icons
 Section: gnome
 Priority: optional
 Maintainer: Kenneth Stier (Trenta.io) <kenny@trenta.io>
@@ -6,9 +6,9 @@ Build-Depends: debhelper (>= 10.5.1)
 Standards-Version: 4.1.1
 Homepage: https://trenta.io/
 
-Package: rainier-icon-theme
+Package: rainier-ui-icons
 Architecture: all
-Depends: elementary-icon-theme, ${shlibs:Depends}, ${misc:Depends}
+Depends: elementary-icon-theme, curl, ${shlibs:Depends}, ${misc:Depends}
 Description: Rainier Icon Theme
  A crisp, modern icon theme for Trenta OS.
 
