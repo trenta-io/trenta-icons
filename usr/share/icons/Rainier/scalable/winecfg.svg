@@ -4,49 +4,24 @@
 <!-- Vector Conversion by @Genghis-Khanr -->
 <svg version="1.1" id="winecfg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
-<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161356, 2017/09/07-01:11:22        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
 <style type="text/css">
-	.st0{fill:#E5E5E5;}
+	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:#767272;}
-	.st2{fill:url(#SVGID_1_);}
-	.st3{fill:url(#SVGID_2_);}
-	.st4{fill:url(#SVGID_3_);}
-	.st5{fill:url(#SVGID_4_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
+	.st5{fill:url(#SVGID_5_);}
 	.st6{fill:#A3A4A6;}
 </style>
+<g id="Circle">
+	
+		<radialGradient id="SVGID_1_" cx="534.9938" cy="872.8573" r="954.2032" gradientTransform="matrix(1 0 0 1 0 -976)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F6F6F6"/>
+		<stop  offset="1" style="stop-color:#E5E5E5"/>
+	</radialGradient>
+	<circle class="st0" cx="512" cy="512" r="447"/>
+</g>
 <g>
-	<g>
-		<g>
-			<circle class="st0" cx="512" cy="512" r="447"/>
-		</g>
-	</g>
 	<g>
 		<rect x="512" y="414.4" class="st1" width="160.6" height="37.7"/>
 		<rect x="512" y="487.7" class="st1" width="122.9" height="37.7"/>
@@ -55,13 +30,13 @@
 		<rect x="642.8" y="487.7" class="st1" width="96.1" height="37.7"/>
 		<rect x="680.5" y="414.4" class="st1" width="58.5" height="37.7"/>
 		
-			<radialGradient id="SVGID_1_" cx="376.8272" cy="262.3047" r="96.4489" gradientTransform="matrix(1 0 0 1 0 234)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_2_" cx="376.8272" cy="763.6953" r="96.4489" gradientTransform="matrix(1 0 0 -1 0 1260)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#00FD15"/>
 			<stop  offset="1" style="stop-color:#00BD0F"/>
 		</radialGradient>
 		<rect x="293.3" y="414.4" class="st2" width="89.2" height="89.2"/>
 		
-			<radialGradient id="SVGID_2_" cx="389.5808" cy="267.7705" r="87.2813" gradientTransform="matrix(1 0 0 1 0 234)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_3_" cx="389.5808" cy="758.2295" r="87.2813" gradientTransform="matrix(1 0 0 -1 0 1260)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FF9601"/>
 			<stop  offset="0.1644" style="stop-color:#FF8701"/>
 			<stop  offset="0.7219" style="stop-color:#FF5700"/>
@@ -69,91 +44,18 @@
 		</radialGradient>
 		<rect x="388.4" y="414.4" class="st3" width="89.2" height="89.2"/>
 		
-			<radialGradient id="SVGID_3_" cx="390.1881" cy="276.2729" r="89.5393" gradientTransform="matrix(1 0 0 1 0 234)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_4_" cx="390.1881" cy="749.7271" r="89.5393" gradientTransform="matrix(1 0 0 -1 0 1260)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FEFD02"/>
 			<stop  offset="1" style="stop-color:#FBD703"/>
 		</radialGradient>
 		<rect x="388.4" y="509.5" class="st4" width="89.2" height="89.2"/>
 		
-			<radialGradient id="SVGID_4_" cx="379.5601" cy="279.0059" r="86.985" gradientTransform="matrix(1 0 0 1 0 234)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_5_" cx="379.5601" cy="746.9941" r="86.985" gradientTransform="matrix(1 0 0 -1 0 1260)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#09D4FB"/>
 			<stop  offset="1" style="stop-color:#0490D0"/>
 		</radialGradient>
 		<rect x="293.3" y="509.5" class="st5" width="89.2" height="89.2"/>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="367" height="110" xlink:href="662816758FFB9C4D.png"  transform="matrix(0.4713 0 0 0.4713 505.8415 407.28)">
-			</image>
-			<g>
-				<path class="st1" d="M672.6,414.4V452H512v-37.7h160.6 M673.6,413.4h-1H512h-1v1V452v1h1h160.6h1v-1v-37.7V413.4L673.6,413.4z"
-					/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="288" height="110" xlink:href="662816758FFB9C57.png"  transform="matrix(0.4713 0 0 0.4713 505.4967 480.72)">
-			</image>
-			<g>
-				<path class="st1" d="M634.9,487.7v37.7H512v-37.7H634.9 M635.9,486.7h-1H512h-1v1v37.7v1h1h122.9h1v-1v-37.7V486.7L635.9,486.7z
-					"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="425" height="110" xlink:href="662816758FFB9C59.png"  transform="matrix(0.4756 0 0 0.4756 505.1673 553.68)">
-			</image>
-			<g>
-				<path class="st1" d="M700.3,561.1v37.7H512v-37.7H700.3 M701.3,560.1h-1H512h-1v1v37.7v1h1h188.3h1v-1v-37.7V560.1L701.3,560.1z
-					"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="96" height="110" xlink:href="662816758FFB9C5A.png"  transform="matrix(0.47 0 0 0.47 701.04 553.99)">
-			</image>
-			<g>
-				<path class="st1" d="M739,561.1v37.7h-30.7v-37.7H739 M740,560.1h-1h-30.7h-1v1v37.7v1h1H739h1v-1v-37.7V560.1L740,560.1z"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="233" height="110" xlink:href="662816758FFB9C5B.png"  transform="matrix(0.4713 0 0 0.4713 636.0568 480.72)">
-			</image>
-			<g>
-				<path class="st1" d="M739,487.7v37.7h-96.1v-37.7H739 M740,486.7h-1h-96.1h-1v1v37.7v1h1H739h1v-1v-37.7V486.7L740,486.7z"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.45;enable-background:new    ;" width="154" height="110" xlink:href="662816758FFB9C5C.png"  transform="matrix(0.4713 0 0 0.4713 673.392 407.28)">
-			</image>
-			<g>
-				<path class="st1" d="M739,414.4V452h-58.5v-37.7H739 M740,413.4h-1h-58.5h-1v1V452v1h1H739h1v-1v-37.7V413.4L740,413.4z"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.35;enable-background:new    ;" width="419" height="415" xlink:href="662816758FFB9C5F.png"  transform="matrix(0.4754 0 0 0.4754 285.84 407.8108)">
-			</image>
-			<g>
-				<path class="st1" d="M477.6,414.4v184.4H293.3V414.4H477.6 M478.6,413.4h-1H293.3h-1v1v184.4v1h1h184.4h1v-1V414.4L478.6,413.4
-					L478.6,413.4z"/>
-			</g>
-		</g>
-		<g>
-			
-				<image style="overflow:visible;opacity:0.2;enable-background:new    ;" width="431" height="429" xlink:href="662816758FFB9C58.png"  transform="matrix(0.4767 0 0 0.4767 282.84 404.5167)">
-			</image>
-			<g>
-				<path class="st1" d="M477.6,414.4v184.4H293.3V414.4H477.6 M478.6,413.4h-1H293.3h-1v1v184.4v1h1h184.4h1v-1V414.4L478.6,413.4
-					L478.6,413.4z"/>
-			</g>
-		</g>
 	</g>
-	<path class="st0" d="M512,65C265.1,65,65,265.1,65,512s200.1,447,447,447s447-200.1,447-447S758.9,65,512,65z M382.5,598.7h-89.2
-		v-89.2h89.2V598.7z M382.5,503.6h-89.2v-89.2h89.2V503.6z M477.6,598.7h-89.2v-89.2h89.2L477.6,598.7L477.6,598.7z M477.6,503.6
-		h-89.2v-89.2h89.2L477.6,503.6L477.6,503.6z M512,414.4h160.6V452H512V414.4z M512,487.7h122.9v37.7H512V487.7z M700.3,598.7H512
-		V561h188.3V598.7z M739,598.7h-30.7V561H739V598.7z M739,525.4h-96.1v-37.7H739V525.4z M739,452h-58.5v-37.7H739V452z"/>
 	<path class="st6" d="M515.6,657.9c-9.1,0-16.5-7.4-16.5-16.5s7.4-16.5,16.5-16.5c9.1,0,16.5,7.4,16.5,16.5
 		C532,650.6,524.6,657.9,515.6,657.9z M515.6,626c-8.5,0-15.5,6.9-15.5,15.5c0,8.5,6.9,15.5,15.5,15.5c8.5,0,15.5-6.9,15.5-15.5
 		C531,632.9,524.1,626,515.6,626z"/>
