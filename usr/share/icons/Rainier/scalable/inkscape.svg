@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Artist: @KevDoy for Trenta.io -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFA106;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:none;stroke:#FFA106;stroke-width:14;stroke-miterlimit:10;}
+</style>
+<g id="Circle">
+	<circle class="st0" cx="512" cy="512" r="447"/>
+	<radialGradient id="SVGID_1_" cx="508.122" cy="108.6885" r="794.7089" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#893E00"/>
+		<stop  offset="0.2521" style="stop-color:#863D00"/>
+		<stop  offset="0.4574" style="stop-color:#7C3800"/>
+		<stop  offset="0.6461" style="stop-color:#6B3100"/>
+		<stop  offset="0.8239" style="stop-color:#532700"/>
+		<stop  offset="0.9945" style="stop-color:#341900"/>
+		<stop  offset="1" style="stop-color:#331900"/>
+	</radialGradient>
+	<circle class="st1" cx="512" cy="512" r="409"/>
+</g>
+<g id="Circles">
+	<path class="st0" d="M374.5,581.5V634c0,11-9,20-20,20H302c-11,0-20-9-20-20v-52.5c0-11,9-20,20-20h52.5
+		C365.5,561.5,374.5,570.5,374.5,581.5z"/>
+	<path class="st0" d="M563.6,320v52.5c0,11-9,20-20,20h-52.5c-11,0-20-9-20-20V320c0-11,9-20,20-20h52.5
+		C554.7,300,563.6,309,563.6,320z"/>
+	<path class="st0" d="M753,581.5V634c0,11-9,20-20,20h-52.5c-11,0-20-9-20-20v-52.5c0-11,9-20,20-20H733
+		C744,561.5,753,570.5,753,581.5z"/>
+	<polygon class="st2" points="327.8,608 516.9,354.8 707,608 	"/>
+</g>
+</svg>

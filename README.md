@@ -21,13 +21,9 @@ We would love to have Rainier UI Icons packages made for other distros too! If y
 Original Designs by @KevDoy
 
 ### Additional Credits
-- Emoji art supplied by Emoji One
+- gnome-characters.svg - Emoji's by Google - noto-emoji - released under Apache-2.0
 - Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
-- Atom Icon taken from official app
-- Opera Icon taken from official app
-- Google Play Music Desktop Player taken from official app
 - Transmission Icon taken from official Transmission macOS app
-- Kodi Icon taken from official Kodi macOS app
 
 ### Preview
 ![Mockup](https://trenta.io/screenshots/rainier-ui-icons.jpg)
