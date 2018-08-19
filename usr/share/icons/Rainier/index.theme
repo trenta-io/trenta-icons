@@ -31,6 +31,13 @@ Type=Scalable
 MaxSize=256
 MinSize=12
 
+[places/scalable]
+Context=Places
+Size=1024
+Type=Scalable
+MaxSize=2048
+MinSize=12
+
 # Status
 [status/64]
 Context=Status
