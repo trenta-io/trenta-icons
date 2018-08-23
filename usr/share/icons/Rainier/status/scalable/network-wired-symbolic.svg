@@ -1,16 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 256 256"
+   style="enable-background:new 0 0 256 256;"
+   xml:space="preserve"
+   sodipodi:docname="network-wired-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata3787"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3785" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="955"
+   id="namedview3783"
+   showgrid="false"
+   inkscape:zoom="2.984375"
+   inkscape:cx="69.696335"
+   inkscape:cy="128"
+   inkscape:window-x="0"
+   inkscape:window-y="69"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style3770">
 	.st0{fill:#231F20;}
 </style>
-<path class="st0" d="M60.9,63.7L22.7,125c-1.2,1.9-1.2,4.3,0,6.2l38.4,61c2.1,3.4,6.9,3.7,9.4,0.7l9.3-10.9c1.6-1.9,1.9-4.7,0.5-6.9
-	l-26.8-43.4c-1.2-1.9-1.2-4.3,0-6.2L80.4,82c1.3-2.1,1.1-4.8-0.4-6.7l-9.5-12.1C68,60,63.1,60.3,60.9,63.7z"/>
-<path class="st0" d="M195.1,63.7l38.2,61.3c1.2,1.9,1.2,4.3,0,6.2l-38.4,61c-2.1,3.4-6.9,3.7-9.4,0.7l-9.3-10.9
-	c-1.6-1.9-1.9-4.7-0.5-6.9l26.8-43.4c1.2-1.9,1.2-4.3,0-6.2L175.6,82c-1.3-2.1-1.1-4.8,0.4-6.7l9.5-12.1
-	C188,60,192.9,60.3,195.1,63.7z"/>
-<circle class="st0" cx="89.8" cy="128.2" r="17.2"/>
-<circle class="st0" cx="128" cy="128.2" r="17.2"/>
-<circle class="st0" cx="166.2" cy="128.2" r="17.2"/>
+<path
+   class="st0"
+   d="M60.9,63.7L22.7,125c-1.2,1.9-1.2,4.3,0,6.2l38.4,61c2.1,3.4,6.9,3.7,9.4,0.7l9.3-10.9c1.6-1.9,1.9-4.7,0.5-6.9  l-26.8-43.4c-1.2-1.9-1.2-4.3,0-6.2L80.4,82c1.3-2.1,1.1-4.8-0.4-6.7l-9.5-12.1C68,60,63.1,60.3,60.9,63.7z"
+   id="path3772"
+   style="fill:#000000" />
+<path
+   class="st0"
+   d="M195.1,63.7l38.2,61.3c1.2,1.9,1.2,4.3,0,6.2l-38.4,61c-2.1,3.4-6.9,3.7-9.4,0.7l-9.3-10.9  c-1.6-1.9-1.9-4.7-0.5-6.9l26.8-43.4c1.2-1.9,1.2-4.3,0-6.2L175.6,82c-1.3-2.1-1.1-4.8,0.4-6.7l9.5-12.1  C188,60,192.9,60.3,195.1,63.7z"
+   id="path3774"
+   style="fill:#000000" />
+<circle
+   class="st0"
+   cx="89.8"
+   cy="128.2"
+   r="17.2"
+   id="circle3776"
+   style="fill:#000000" />
+<circle
+   class="st0"
+   cx="128"
+   cy="128.2"
+   r="17.2"
+   id="circle3778"
+   style="fill:#000000" />
+<circle
+   class="st0"
+   cx="166.2"
+   cy="128.2"
+   r="17.2"
+   id="circle3780"
+   style="fill:#000000" />
 </svg>
