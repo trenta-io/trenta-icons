@@ -12,7 +12,6 @@ To install this icon set on an Ubuntu based Linux distro, run the following comm
 
 	sudo apt-get install rainier-icon-theme
 
-This theme currently inherits icons from the Numix Circle theme.
 
 ## Installing Rainier in Other Distros
 We would love to have Rainier UI Icons packages made for other distros too! If you have the skills, please let us know!
