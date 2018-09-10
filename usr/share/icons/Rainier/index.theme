@@ -16,13 +16,6 @@ Type=Scalable
 MaxSize=2048
 MinSize=12
 
-[apps/1024]
-Context=Applications
-Size=1024
-Type=Scalable
-MaxSize=1024
-MinSize=12
-
 # Places
 [places/256]
 Context=Places
