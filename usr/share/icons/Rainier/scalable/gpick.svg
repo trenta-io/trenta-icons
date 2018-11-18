@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Artist: @KevDoy for Trenta.io -->
+<svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.42;fill:url(#SVGID_1_);}
+	.st1{fill:#FF0000;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:#FF6764;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="451.7845" y1="688.1349" x2="571.1216" y2="688.1349" gradientTransform="matrix(0.9877 0.1564 -0.1564 0.9877 73.8573 -74.7778)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st0" d="M514.7,411.5l-58.9-9.3l-56.7,357.8c0,0-4.9,31.8,16,75c0.2,0.3,12.4,36.1,9.2,56.5l-10.2,64.7l14,2.2l14,2.2
+	l10.2-64.7c3.2-20.3,25.9-50.6,26.2-50.8c33.2-34.7,38.4-66.4,38.4-66.4l56.7-357.8L514.7,411.5z"/>
+<g>
+	<path class="st1" d="M477.9,643.6c-32.5-5.2-58.1-14.4-57.1-20.6l-21.7,136.9c0,0-4.9,31.8,16,75c0.2,0.3,12.4,36.1,9.2,56.5
+		l-10.2,64.7l14,2.2l14,2.2l10.2-64.7c3.2-20.3,25.9-50.6,26.2-50.8c33.2-34.7,38.4-66.4,38.4-66.4l21.7-136.9
+		C537.6,647.9,510.4,648.8,477.9,643.6z"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="412.6647" y1="379.7092" x2="610.3785" y2="379.7092" gradientTransform="matrix(0.9877 0.1564 -0.1564 0.9877 73.8573 -74.7778)">
+	<stop  offset="0.2198" style="stop-color:#314756"/>
+	<stop  offset="0.5151" style="stop-color:#233343"/>
+	<stop  offset="1" style="stop-color:#000B1E"/>
+</linearGradient>
+<path class="st2" d="M528.9,322c-53.9-8.5-99.7-2.4-102.3,13.7l-9.9,62.6l1,0.2c4.7,15.2,43.6,32.4,92.7,40.2
+	c49.1,7.8,91.4,3.4,100.5-9.6l1,0.2l9.9-62.6C624.5,350.5,582.8,330.5,528.9,322z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="427.01" y1="203.5013" x2="594.8738" y2="203.5013" gradientTransform="matrix(0.9877 0.1564 -0.1564 0.9877 73.8573 -74.7778)">
+	<stop  offset="0.2198" style="stop-color:#314756"/>
+	<stop  offset="0.5151" style="stop-color:#233343"/>
+	<stop  offset="1" style="stop-color:#000B1E"/>
+</linearGradient>
+<path class="st3" d="M638.1,158.5c6.3-45-24.5-86.9-69.5-94c-45.5-7.2-88.2,23.8-95.4,69.3c-1,6-1.2,11.9-0.9,17.8
+	c-4.9,93.7-9.9,144.4-9.9,144.4l-5.6,35.4c0,0,11.5,7.3,67.5,16.2c56.1,8.9,69.3,5.5,69.3,5.5l5.6-35.4c0,0,12.2-56.1,39.8-157.6
+	C638.7,159.6,638.4,159.1,638.1,158.5z"/>
+<ellipse transform="matrix(0.1564 -0.9877 0.9877 0.1564 -219.9303 1007.2189)" class="st4" cx="479.7" cy="632.4" rx="11.4" ry="59.7"/>
+</svg>
