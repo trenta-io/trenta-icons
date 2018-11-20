@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<!-- Artist: @Genghis-Khanr for Trenta.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="splat"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1024 1024"
+   style="enable-background:new 0 0 1024 1024;"
+   xml:space="preserve"
+   sodipodi:docname="splat.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata84"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs82"><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Drop Shadow"
+     id="filter4051"><feFlood
+       flood-opacity="0.294118"
+       flood-color="rgb(0,0,0)"
+       result="flood"
+       id="feFlood4041" /><feComposite
+       in="flood"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite4043" /><feGaussianBlur
+       in="composite1"
+       stdDeviation="10"
+       result="blur"
+       id="feGaussianBlur4045" /><feOffset
+       dx="3"
+       dy="3"
+       result="offset"
+       id="feOffset4047" /><feComposite
+       in="SourceGraphic"
+       in2="offset"
+       operator="over"
+       result="composite2"
+       id="feComposite4049" /></filter></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1417"
+   id="namedview80"
+   showgrid="false"
+   inkscape:zoom="0.84107037"
+   inkscape:cx="796.73779"
+   inkscape:cy="497.32006"
+   inkscape:window-x="1432"
+   inkscape:window-y="585"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="splat" />
+<style
+   type="text/css"
+   id="style48">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#000000;stroke-width:50;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+</style>
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="65.8153"
+   y1="531.0536"
+   x2="958.8174"
+   y2="493.8765"
+   gradientTransform="matrix(0.3672 0.9301 -0.9301 0.3672 800.523 -152.7127)">
+	<stop
+   offset="0"
+   style="stop-color:#F7F6F7"
+   id="stop50" />
+	<stop
+   offset="0.1484"
+   style="stop-color:#F1F0F2"
+   id="stop52" />
+	<stop
+   offset="0.8984"
+   style="stop-color:#D7D6DC"
+   id="stop54" />
+</linearGradient>
+<circle
+   class="st0"
+   cx="512"
+   cy="512"
+   r="446.9"
+   id="circle57" />
+<path
+   class="st1"
+   d="M512,512"
+   id="path59" />
+<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="107.7747"
+   y1="512"
+   x2="916.2253"
+   y2="512"
+   gradientTransform="matrix(-0.1929 -0.9812 0.9812 -0.1929 108.3984 1113.1603)">
+	<stop
+   offset="0"
+   style="stop-color:#AA0E00"
+   id="stop61" />
+	<stop
+   offset="0.1442"
+   style="stop-color:#B71303"
+   id="stop63" />
+	<stop
+   offset="1"
+   style="stop-color:#FF2F15"
+   id="stop65" />
+</linearGradient>
+<circle
+   class="st2"
+   cx="512"
+   cy="512"
+   r="404.2"
+   id="circle68" />
+<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="289.7242"
+   y1="269.4112"
+   x2="735.4679"
+   y2="755.8898">
+	<stop
+   offset="0"
+   style="stop-color:#F7F6F7"
+   id="stop70" />
+	<stop
+   offset="0.1652"
+   style="stop-color:#F1F0F2"
+   id="stop72" />
+	<stop
+   offset="1"
+   style="stop-color:#D7D6DC"
+   id="stop74" />
+</linearGradient>
+<path
+   class="st3"
+   d="M559,512l130.1-139.5c13-13.9,12.2-35.6-1.7-48.6s-35.6-12.2-48.6,1.7L512,461.6l-126.8-136  c-13-13.9-34.7-14.6-48.6-1.7s-14.6,34.7-1.7,48.6L465,512L334.9,651.5c-13,13.9-12.2,35.6,1.7,48.6c6.6,6.2,15,9.2,23.4,9.2  c9.2,0,18.4-3.7,25.2-10.9l126.8-136l126.8,136c6.8,7.3,15.9,10.9,25.2,10.9c8.4,0,16.8-3.1,23.4-9.2c13.9-12.9,14.6-34.7,1.7-48.6  L559,512z"
+   id="path77"
+   style="filter:url(#filter4051)" />
+</svg>
