@@ -8,7 +8,7 @@
 	.st2{fill:#FFC70E;}
 	.st3{fill:#00F94A;}
 	.st4{fill:url(#SVGID_1_);}
-	.st5{fill:url(#SVGID_2_);}
+	.st5{fill:#0686FF;}
 	.st6{fill:#FFFFFF;}
 </style>
 <g id="orca" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="orca.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
@@ -29,24 +29,13 @@
 	<circle class="st3" cx="371.5" cy="172.7" r="42.6"/>
 </g>
 <g>
-	<radialGradient id="SVGID_1_" cx="513.0314" cy="386.0442" r="429.7231" gradientUnits="userSpaceOnUse">
-		<stop  offset="0" style="stop-color:#76EB83"/>
-		<stop  offset="1.560741e-02" style="stop-color:#75EA81"/>
-		<stop  offset="0.3055" style="stop-color:#69D963"/>
-		<stop  offset="0.5535" style="stop-color:#62CF51"/>
-		<stop  offset="0.7292" style="stop-color:#5FCB4A"/>
-	</radialGradient>
-	<path class="st4" d="M693.8,611.7L530.1,386.1c-9.4-13-28.9-13-38.3,0L328,611.7c-11.3,15.6-0.1,37.4,19.2,37.3l163.7-0.3
-		l163.7,0.3C693.9,649,705.1,627.2,693.8,611.7z M559.9,536.3l-69,84.6c-2,2.5-6,0.4-5.1-2.7l16.1-56.5c0.5-1.9-0.9-3.8-2.8-3.8h-35
-		c-2.5,0-3.9-2.9-2.3-4.8l67.1-85c2-2.5,6-0.5,5.2,2.6l-14.3,57.1c-0.5,1.9,0.9,3.7,2.9,3.7h35C560.1,531.4,561.4,534.3,559.9,536.3
-		z"/>
 	
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="576.4273" y1="725.4768" x2="463.7472" y2="193.0078" gradientTransform="matrix(1 0 0 -1 0 1021.8898)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="576.4273" y1="725.4768" x2="463.7472" y2="193.0078" gradientTransform="matrix(1 0 0 -1 0 1021.8898)">
 		<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
 		<stop  offset="0.4383" style="stop-color:#0086FF"/>
 		<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0"/>
 	</linearGradient>
-	<path class="st5" d="M958.4,414.1v-71.2v-3v-74.2h-74.3h-3H810h-3.2h-71.1h-3h-70.9h-3.4h-70.9h-3h-71.3h-3h-71.3h-3H365h-3.2
+	<path class="st4" d="M958.4,414.1v-71.2v-3v-74.2h-74.3h-3H810h-3.2h-71.1h-3h-70.9h-3.4h-70.9h-3h-71.3h-3h-71.3h-3H365h-3.2
 		h-71.1h-3h-70.9h-3.4h-70.9h-3H65.3v74.2v3v71.2v3v71.2v3v71.2v3v71.2v3v71.2v3v74.2h0.1v71.2v3v74.2h74.3h3h70.9h3.4h70.9h3H362
 		h3.2h71.1h3h71.3h3h71.3h3h70.9h3.4H733h3h71h3.2h71.1h3h74.3v-74.2v-3v-71.2v-3v-71.2v-3v-71.2v-3v-71.2v-3v-71.2v-3v-74.2
 		L958.4,414.1L958.4,414.1z M884.3,714.1h71.1v71.2h-71.1V714.1z M884.3,711.1v-71.2h71.1v71.2H884.3z M884.3,636.8v-71.2h71.1v71.2
@@ -85,6 +74,10 @@
 		h-71v-71.2h71V933.8z M736,859.6v-71.2h70.9h0.1v71.2H736z M881.3,933.8h-71v-71.2h71V933.8z M810.3,859.6v-71.2h70.9h0.1v71.2
 		H810.3z M955.6,933.8h-71.2v-71.2h71.2V933.8z M884.3,859.6v-71.2h71.2v71.2H884.3z"/>
 </g>
+<path class="st5" d="M693.8,611.7L530.1,386.1c-9.4-13-28.9-13-38.3,0L328,611.7c-11.3,15.6-0.1,37.4,19.2,37.3l163.7-0.3l163.7,0.3
+	C693.9,649,705.1,627.2,693.8,611.7z M559.9,536.3l-69,84.6c-2,2.5-6,0.4-5.1-2.7l16.1-56.5c0.5-1.9-0.9-3.8-2.8-3.8h-35
+	c-2.5,0-3.9-2.9-2.3-4.8l67.1-85c2-2.5,6-0.5,5.2,2.6l-14.3,57.1c-0.5,1.9,0.9,3.7,2.9,3.7h35C560.1,531.4,561.4,534.3,559.9,536.3z
+	"/>
 <path class="st6" d="M560,536.3l-69,84.6c-2,2.5-6,0.4-5.1-2.7l16.1-56.5c0.5-1.9-0.9-3.8-2.8-3.8h-35c-2.5,0-3.9-2.9-2.3-4.8
 	l67.1-85c2-2.5,6-0.5,5.2,2.6l-14.3,57.1c-0.5,1.9,0.9,3.7,2.9,3.7h35C560.2,531.4,561.6,534.3,560,536.3z"/>
 </svg>
