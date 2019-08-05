@@ -12,6 +12,8 @@ To install this icon set on an Ubuntu based Linux distro, run the following comm
 
 	sudo apt-get install rainier-icon-theme
 
+## Installing Trenta Icons in Arch
+Trenta icons are now in the [AUR as rainier-ui-icons-git](https://aur.archlinux.org/packages/rainier-ui-icons-git)!
 
 ## Installing Trenta Icons in Other Distros
 We would love to have Trenta icon packages made for other distros too! If you have the skills, please let us know!
