@@ -1,12 +1,12 @@
 [Icon Theme]
 Name=Rainier UI Icons
 Comment=Crisp, modern icon set for Trenta OS by Trenta.io
-Inherits=elementary,Ubuntu-Mono-Dark,Humanity-Dark,Adwaita,hicolor
+Inherits=elementary-mono-dark
 
 Example=rainier-icon-theme
 
 # Directory list
-Directories=scalable,apps/1024,places/256,status/64,status/scalable
+Directories=scalable,places/256,status/scalable,actions
 
 # Apps
 [scalable]
@@ -24,13 +24,6 @@ Type=Scalable
 MaxSize=256
 MinSize=12
 
-[places/scalable]
-Context=Places
-Size=1024
-Type=Scalable
-MaxSize=2048
-MinSize=12
-
 # Status
 [status/scalable]
 Context=Status
@@ -39,4 +32,10 @@ Type=Scalable
 MaxSize=256
 MinSize=12
 
-
+# Actions
+[actions]
+Context=Actions
+Size=24
+Type=Scalable
+MaxSize=256
+MinSize=12
