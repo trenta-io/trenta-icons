@@ -19,5 +19,6 @@ fi
 write_cache
 
 bash /usr/share/icons/Rainier/fix.sh
+bash /usr/share/icons/Rainier/hide-icon.sh /usr/share/icons/Rainier/garbage.txt
 
 exit 0

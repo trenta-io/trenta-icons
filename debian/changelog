@@ -1,3 +1,10 @@
+rainier-ui-icons (0.3.57) eoan; urgency=medium
+
+  * Renamed icons for Gnome 3.34
+  * Added App Drawer Junk Remover
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Sat, 26 Oct 2019 14:54:15 -0400
+
 rainier-ui-icons (0.3.56) bionic; urgency=medium
 
   * Rename Package
