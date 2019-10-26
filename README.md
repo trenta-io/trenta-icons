@@ -8,9 +8,12 @@ To install this icon set on an Ubuntu based Linux distro, run the following comm
 
 	sudo add-apt-repository ppa:trentaos-team/rainier
 
-	sudo apt-get update
+	sudo apt update
 
-	sudo apt-get install rainier-icon-theme
+	sudo apt install rainier-ui-icons
+
+### In 18.04
+On Ubuntu 18.04, install the rainier-icon-theme package instead
 
 ## Installing Trenta Icons in Arch
 Trenta icons are now in the [AUR as rainier-ui-icons-git](https://aur.archlinux.org/packages/rainier-ui-icons-git)!
