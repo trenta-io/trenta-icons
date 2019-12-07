@@ -6,14 +6,11 @@ Trenta Icons is the icon theme crafted by Trenta.io. It is uses modern, clean an
 ## Installing Trenta Icons in Ubuntu-based Distro
 To install this icon set on an Ubuntu based Linux distro, run the following commands.
 
-	sudo add-apt-repository ppa:trentaos-team/rainier
+	sudo add-apt-repository ppa:trenta.io/os
 
 	sudo apt update
 
-	sudo apt install rainier-ui-icons
-
-### In 18.04
-On Ubuntu 18.04, install the rainier-icon-theme package instead
+	sudo apt install trenta-icons
 
 ## Installing Trenta Icons in Arch
 Trenta icons are now in the [AUR as rainier-ui-icons-git](https://aur.archlinux.org/packages/rainier-ui-icons-git)!

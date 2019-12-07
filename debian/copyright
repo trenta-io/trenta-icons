@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5/
-Upstream-Name: Rainier Icon Theme
-Source: https://github.com/trenta-io/rainier-UI-icons
+Upstream-Name: Trenta Icon Theme
+Source: https://github.com/trenta-io/trenta-icons
 Upstream-Contact: Kenneth Stier (Trenta.io) <kenny@trenta.io>
 
 Files: *

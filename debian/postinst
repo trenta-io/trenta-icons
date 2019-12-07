@@ -5,7 +5,7 @@ set -e
 write_cache()
 {
 if [ -x /usr/bin/gtk-update-icon-cache ]; then
-    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/Rainier; then
+    if ! gtk-update-icon-cache --force --quiet /usr/share/icons/Trenta; then
         echo "WARNING: icon cache generation failed"
     fi
 fi
@@ -18,7 +18,7 @@ fi
 
 write_cache
 
-bash /usr/share/icons/Rainier/fix.sh
-bash /usr/share/icons/Rainier/hide-icon.sh /usr/share/icons/Rainier/garbage.txt
+bash /usr/share/icons/Trenta/fix.sh
+bash /usr/share/icons/Trenta/hide-icon.sh /usr/share/icons/Trenta/garbage.txt
 
 exit 0

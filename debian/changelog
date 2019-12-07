@@ -1,3 +1,15 @@
+trenta-icons (0.3.57.6) bionic; urgency=medium
+
+  * Backporting to 18.04
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Fri, 06 Dec 2019 22:58:35 -0500
+
+trenta-icons (0.3.57.5) bionic; urgency=medium
+
+  * Initial push to new repo with new name
+
+ -- Kenneth Stier (Trenta.io) <kenny@trenta.io>  Fri, 06 Dec 2019 21:57:05 -0500
+
 rainier-ui-icons (0.3.57) eoan; urgency=medium
 
   * Renamed icons for Gnome 3.34
