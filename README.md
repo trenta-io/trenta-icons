@@ -25,6 +25,7 @@ Original Designs by @KevDoy
 - gnome-characters.svg - Emoji's by Google - noto-emoji - released under Apache-2.0
 - Input Method/Flag icon uses "THE OFFICIAL PROPOSAL" of the Earth Flag by Oskar Pernefeldt
 - Transmission Icon based on official Transmission macOS app
+- Pineapple Juice by supalerk laipawat from NounProject.com
 
 ### Preview
 ![Mockup](https://trenta.io/screenshots/rainier-ui-icons.jpg)
