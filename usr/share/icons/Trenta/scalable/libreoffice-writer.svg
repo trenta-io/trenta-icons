@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:#FFFFFF;}
-	.st2{opacity:0.53;fill:none;stroke:#1287C9;stroke-width:8;stroke-miterlimit:10;}
+	.st2{opacity:0.53;fill:#1287C9;}
 	.st3{fill:#1287C9;}
 </style>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="496.9557" y1="176.8569" x2="496.9557" y2="160.5129" gradientTransform="matrix(0.9877 -0.1564 -0.1564 -0.9877 101.34 1105.519)">
@@ -19,17 +19,25 @@
 <path class="st1" d="M916.1,794.3L211.9,905.8c-19.5,3.1-37.8-10.2-40.9-29.7L75.2,271.2c-3.1-19.5,10.2-37.8,29.7-40.9l704.2-111.5
 	c19.5-3.1,37.8,10.2,40.9,29.7l95.8,604.9C948.8,772.9,935.5,791.2,916.1,794.3z"/>
 <g>
-	<line class="st2" x1="803.1" y1="208.2" x2="353.3" y2="279.4"/>
-	<line class="st2" x1="811.4" y1="260.3" x2="361.6" y2="331.6"/>
-	<line class="st2" x1="819.7" y1="312.4" x2="369.8" y2="383.7"/>
-	<line class="st2" x1="827.9" y1="364.5" x2="165.6" y2="469.4"/>
-	<line class="st2" x1="836.2" y1="416.7" x2="173.9" y2="521.6"/>
-	<line class="st2" x1="844.4" y1="468.8" x2="182.1" y2="573.7"/>
-	<line class="st2" x1="852.7" y1="520.9" x2="190.4" y2="625.8"/>
-	<line class="st2" x1="869.2" y1="625.1" x2="206.9" y2="730"/>
-	<line class="st2" x1="860.9" y1="573" x2="198.6" y2="677.9"/>
-	<line class="st2" x1="877.4" y1="677.3" x2="215.1" y2="782.2"/>
-	<line class="st2" x1="885.7" y1="729.4" x2="223.4" y2="834.3"/>
+	
+		<rect x="350.5" y="239.8" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -31.0211 93.4581)" class="st2" width="455.4" height="8"/>
+	
+		<rect x="358.8" y="291.9" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -39.073 95.3912)" class="st2" width="455.4" height="8"/>
+	<rect x="367" y="344" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -47.1249 97.3244)" class="st2" width="455.4" height="8"/>
+	<rect x="161.5" y="413" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -59.117 82.8451)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="169.7" y="465.1" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -67.1616 84.7672)" class="st2" width="670.6" height="8"/>
+	<rect x="178" y="517.2" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -75.2125 86.7)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="186.2" y="569.4" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -83.2634 88.6328)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="202.8" y="673.6" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -99.3653 92.4984)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="194.5" y="621.5" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -91.282 90.5282)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="211" y="725.7" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -107.3779 94.3917)" class="st2" width="670.6" height="8"/>
+	
+		<rect x="219.3" y="777.8" transform="matrix(0.9877 -0.1564 0.1564 0.9877 -115.467 96.3639)" class="st2" width="670.6" height="8"/>
 </g>
 <g>
 	<path class="st3" d="M175.2,366.4c-3.1-19.4-0.6-35.6,7.5-48.6c7-11.2,18.2-18.7,33.5-22.5c3.9-1,7.8,1.6,8.4,5.5l2.2,14
